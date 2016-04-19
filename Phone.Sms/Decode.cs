@@ -4,7 +4,6 @@ using System.Collections.Generic;
 
 namespace Phone.Sms
 {
-
     /// <summary>
     /// PDU格式短信解码部分
     /// 接口函数：PDUDecoding
